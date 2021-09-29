@@ -7,18 +7,18 @@ const Footer = () => (
       Created by:{' '}
       <a
         className="Footer-link"
-        href="https://twitter.com/rmasianjr"
+        href="#"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Ricardo Masian Jr.
+       ####
       </a>
     </span>
     <span> | </span>
     <span>
       <a
         className="Footer-link"
-        href="https://github.com/rmasianjr/markdown-previewer"
+        href="#"
         target="_blank"
         rel="noopener noreferrer"
       >
